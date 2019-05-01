@@ -10,8 +10,8 @@
     "@types/expo": "^32.0.12",
     "@types/react-native": "^0.57.51",
     "expo": "^32.0.0",
-    "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react": "16.8.6",
+    "react-native": "https://github.com/the-atelier/react-native#sdk-32",
     "typescript": "^3.4.5"
   },
   "devDependencies": {
